@@ -68,7 +68,3 @@
   ```bash
   node webserver.js
   ```
-11. Install Socket.io for NodeJS.
-```bash
-$ npm install socket.io
-```
